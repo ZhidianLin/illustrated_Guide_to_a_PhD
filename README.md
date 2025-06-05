@@ -1,5 +1,6 @@
 # 博士學位的插畫指南
 以下為直接翻譯Prof Matthew Might 部落格的博士學位圖鑑
+
 Might, M. (n.d.). The illustrated guide to a Ph.D. Retrieved June 5, 2025, from https://matt.might.net/articles/phd-school-in-pictures/ 
 
 ## 試想像一下，下面是一個包含所有人類知識的圓圈
