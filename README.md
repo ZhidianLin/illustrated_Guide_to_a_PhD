@@ -25,7 +25,7 @@ Might, M. (n.d.). The illustrated guide to a Ph.D. Retrieved June 5, 2025, from 
 - 一旦你到達邊界，你就專心致志地專注在某一個研究：
 ![image](https://github.com/user-attachments/assets/577530eb-0f8d-4c71-a867-ecb254376c8c)
 
-- 你在邊界上努力了幾年，像一位科學界的鬥士：
+- 你在這個邊界上繼續努力了幾年：
 ![image](https://github.com/user-attachments/assets/9ac4c37e-2a7f-4bc3-8690-54adb545ec07)
 
 - 直到有一天，人類知識圈的邊界被你往外推了一點：
