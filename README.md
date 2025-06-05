@@ -1,8 +1,6 @@
 # 博士學位的插畫指南
 
-## 知識的圓圈
-
-- 試想像一下，下面是一個包含所有人類知識的圓圈
+## 試想像一下，下面是一個包含所有人類知識的圓圈
 ![image](https://github.com/user-attachments/assets/bdd2ee83-2e22-4bc1-91c1-39da149c0998)
 
 
