@@ -5,8 +5,10 @@
 - 試想像一下，下面是一個包含所有人類知識的圓圈
 ![image](https://github.com/user-attachments/assets/bdd2ee83-2e22-4bc1-91c1-39da149c0998)
 
+
 - 小學畢業時，你學到了一點點知識：
 ![image](https://github.com/user-attachments/assets/91f1e93f-d3b6-4ac7-b81d-d2fb789808a5)
+
 
 - 高中畢業時，你知道的知識變多了點：
 ![image](https://github.com/user-attachments/assets/357b22c4-391e-46a9-b762-4ea0fecbe7eb)
@@ -39,3 +41,5 @@
 ![image](https://github.com/user-attachments/assets/046e6118-b732-4059-8bf9-fe7a6a102647)
 
 繼續推動人類進步吧！
+
+Might, M. (n.d.). The illustrated guide to a Ph.D. Retrieved June 5, 2025, from https://matt.might.net/articles/phd-school-in-pictures/ 
